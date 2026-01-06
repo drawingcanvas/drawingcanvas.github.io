@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Kolesnikova"
+  given-names: "Yuliya"
+  orcid: "https://orcid.org/0009-0000-6151-7415"
+title: "Drawing Canvas"
+version: 1.0
+doi: 10.5281/zenodo.18162854
+date-released: 2026-01-06
+url: "https://github.com/drawingcanvas/drawingcanvas.github.io"
+license: MIT
